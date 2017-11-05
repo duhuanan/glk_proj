@@ -7,6 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1897E57B193CBE7500FF6450 /* su-101_chassis.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1897E575193CBE7500FF6450 /* su-101_chassis.obj */; };
+		1897E57C193CBE7500FF6450 /* su-101_hull.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1897E576193CBE7500FF6450 /* su-101_hull.obj */; };
+		1897E57D193CBE7500FF6450 /* su-101_turret_1_su-101.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1897E577193CBE7500FF6450 /* su-101_turret_1_su-101.obj */; };
+		1897E57E193CBE7500FF6450 /* su-101_turret_1_su-101_100mm_d10s_obr_44.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1897E578193CBE7500FF6450 /* su-101_turret_1_su-101_100mm_d10s_obr_44.obj */; };
+		1897E57F193CBE7500FF6450 /* su-101_turret_1_su-101_100mm_d54s.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1897E579193CBE7500FF6450 /* su-101_turret_1_su-101_100mm_d54s.obj */; };
+		1897E580193CBE7500FF6450 /* su-101_turret_1_su-101_122mm_d__25c_mod1944.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1897E57A193CBE7500FF6450 /* su-101_turret_1_su-101_122mm_d__25c_mod1944.obj */; };
+		1897E584193CCCC200FF6450 /* hull.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1897E582193CCCC200FF6450 /* hull.jpg */; };
+		1897E585193CCCC200FF6450 /* track.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1897E583193CCCC200FF6450 /* track.jpg */; };
+		189825A11944364400CCE6F0 /* jaguar.lwo in Resources */ = {isa = PBXBuildFile; fileRef = 189825891944364400CCE6F0 /* jaguar.lwo */; };
+		189825A21944364400CCE6F0 /* jaguar.max in Resources */ = {isa = PBXBuildFile; fileRef = 1898258A1944364400CCE6F0 /* jaguar.max */; };
+		189825A31944364400CCE6F0 /* jaguar.mb in Resources */ = {isa = PBXBuildFile; fileRef = 1898258B1944364400CCE6F0 /* jaguar.mb */; };
+		189825A41944364400CCE6F0 /* jaguar.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 1898258C1944364400CCE6F0 /* jaguar.mtl */; };
+		189825A51944364400CCE6F0 /* jaguar.obj in Resources */ = {isa = PBXBuildFile; fileRef = 1898258D1944364400CCE6F0 /* jaguar.obj */; };
+		189825A61944364400CCE6F0 /* Jagucano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1898258E1944364400CCE6F0 /* Jagucano.jpg */; };
+		189825A71944364400CCE6F0 /* Jagufudl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1898258F1944364400CCE6F0 /* Jagufudl.jpg */; };
+		189825A81944364400CCE6F0 /* Jagufudr.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189825901944364400CCE6F0 /* Jagufudr.jpg */; };
+		189825A91944364400CCE6F0 /* Jagufusb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189825911944364400CCE6F0 /* Jagufusb.jpg */; };
+		189825AA1944364400CCE6F0 /* Jagufutd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189825921944364400CCE6F0 /* Jagufutd.jpg */; };
+		189825AB1944364400CCE6F0 /* Jagufwib.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189825931944364400CCE6F0 /* Jagufwib.jpg */; };
+		189825AC1944364400CCE6F0 /* Jagufwid.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189825941944364400CCE6F0 /* Jagufwid.jpg */; };
+		189825AD1944364400CCE6F0 /* Jagumhmb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189825951944364400CCE6F0 /* Jagumhmb.jpg */; };
+		189825AE1944364400CCE6F0 /* Jagumhmd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189825961944364400CCE6F0 /* Jagumhmd.jpg */; };
+		189825AF1944364400CCE6F0 /* Jagumisd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189825971944364400CCE6F0 /* Jagumisd.jpg */; };
+		189825B01944364400CCE6F0 /* Jagurhmb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189825981944364400CCE6F0 /* Jagurhmb.jpg */; };
+		189825B11944364400CCE6F0 /* Jagurhmd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 189825991944364400CCE6F0 /* Jagurhmd.jpg */; };
+		189825B21944364400CCE6F0 /* Jagurhsb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1898259A1944364400CCE6F0 /* Jagurhsb.jpg */; };
+		189825B31944364400CCE6F0 /* Jagurhsd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1898259B1944364400CCE6F0 /* Jagurhsd.jpg */; };
+		189825B41944364400CCE6F0 /* Jaguvsld.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1898259C1944364400CCE6F0 /* Jaguvsld.jpg */; };
+		189825B51944364400CCE6F0 /* Jaguvstb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1898259D1944364400CCE6F0 /* Jaguvstb.jpg */; };
+		189825B61944364400CCE6F0 /* Jaguvstd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1898259E1944364400CCE6F0 /* Jaguvstd.jpg */; };
+		189825B71944364400CCE6F0 /* Lakerem.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1898259F1944364400CCE6F0 /* Lakerem.jpg */; };
+		189825B81944364400CCE6F0 /* read me.txt in Resources */ = {isa = PBXBuildFile; fileRef = 189825A01944364400CCE6F0 /* read me.txt */; };
+		189BD6A219645288000E5D6A /* math_matrix.c in Sources */ = {isa = PBXBuildFile; fileRef = 189BD6A119645288000E5D6A /* math_matrix.c */; };
 		189CF379193BA020007E2D56 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 189CF378193BA020007E2D56 /* Foundation.framework */; };
 		189CF37B193BA020007E2D56 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 189CF37A193BA020007E2D56 /* CoreGraphics.framework */; };
 		189CF37D193BA020007E2D56 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 189CF37C193BA020007E2D56 /* UIKit.framework */; };
@@ -22,6 +55,13 @@
 		189CF39D193BA020007E2D56 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 189CF37C193BA020007E2D56 /* UIKit.framework */; };
 		189CF3A5193BA020007E2D56 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 189CF3A3193BA020007E2D56 /* InfoPlist.strings */; };
 		189CF3A7193BA020007E2D56 /* glk_projTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 189CF3A6193BA020007E2D56 /* glk_projTests.m */; };
+		189CF3B1193BA06C007E2D56 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 189CF3B0193BA06C007E2D56 /* GLKit.framework */; };
+		189CF3B3193BA073007E2D56 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 189CF3B2193BA073007E2D56 /* OpenGLES.framework */; };
+		189CF3B9193BA30C007E2D56 /* _105_lefh18b2_chassis.obj in Resources */ = {isa = PBXBuildFile; fileRef = 189CF3B5193BA30C007E2D56 /* _105_lefh18b2_chassis.obj */; };
+		189CF3BA193BA30C007E2D56 /* _105_lefh18b2_hull.obj in Resources */ = {isa = PBXBuildFile; fileRef = 189CF3B6193BA30C007E2D56 /* _105_lefh18b2_hull.obj */; };
+		189CF3BB193BA30C007E2D56 /* _105_lefh18b2_turret_1_105_lefh18b2.obj in Resources */ = {isa = PBXBuildFile; fileRef = 189CF3B7193BA30C007E2D56 /* _105_lefh18b2_turret_1_105_lefh18b2.obj */; };
+		189CF3BC193BA30C007E2D56 /* _105_lefh18b2_turret_1_105_lefh18b2_105mm_lefh18_l28.obj in Resources */ = {isa = PBXBuildFile; fileRef = 189CF3B8193BA30C007E2D56 /* _105_lefh18b2_turret_1_105_lefh18b2_105mm_lefh18_l28.obj */; };
+		189CF3C5193BA354007E2D56 /* obj_file_read.m in Sources */ = {isa = PBXBuildFile; fileRef = 189CF3C2193BA354007E2D56 /* obj_file_read.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +75,40 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1897E575193CBE7500FF6450 /* su-101_chassis.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "su-101_chassis.obj"; sourceTree = "<group>"; };
+		1897E576193CBE7500FF6450 /* su-101_hull.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "su-101_hull.obj"; sourceTree = "<group>"; };
+		1897E577193CBE7500FF6450 /* su-101_turret_1_su-101.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "su-101_turret_1_su-101.obj"; sourceTree = "<group>"; };
+		1897E578193CBE7500FF6450 /* su-101_turret_1_su-101_100mm_d10s_obr_44.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "su-101_turret_1_su-101_100mm_d10s_obr_44.obj"; sourceTree = "<group>"; };
+		1897E579193CBE7500FF6450 /* su-101_turret_1_su-101_100mm_d54s.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "su-101_turret_1_su-101_100mm_d54s.obj"; sourceTree = "<group>"; };
+		1897E57A193CBE7500FF6450 /* su-101_turret_1_su-101_122mm_d__25c_mod1944.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "su-101_turret_1_su-101_122mm_d__25c_mod1944.obj"; sourceTree = "<group>"; };
+		1897E582193CCCC200FF6450 /* hull.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hull.jpg; sourceTree = "<group>"; };
+		1897E583193CCCC200FF6450 /* track.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = track.jpg; sourceTree = "<group>"; };
+		189825891944364400CCE6F0 /* jaguar.lwo */ = {isa = PBXFileReference; lastKnownFileType = file; path = jaguar.lwo; sourceTree = "<group>"; };
+		1898258A1944364400CCE6F0 /* jaguar.max */ = {isa = PBXFileReference; lastKnownFileType = file; path = jaguar.max; sourceTree = "<group>"; };
+		1898258B1944364400CCE6F0 /* jaguar.mb */ = {isa = PBXFileReference; lastKnownFileType = file; path = jaguar.mb; sourceTree = "<group>"; };
+		1898258C1944364400CCE6F0 /* jaguar.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = jaguar.mtl; sourceTree = "<group>"; };
+		1898258D1944364400CCE6F0 /* jaguar.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = jaguar.obj; sourceTree = "<group>"; };
+		1898258E1944364400CCE6F0 /* Jagucano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagucano.jpg; sourceTree = "<group>"; };
+		1898258F1944364400CCE6F0 /* Jagufudl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagufudl.jpg; sourceTree = "<group>"; };
+		189825901944364400CCE6F0 /* Jagufudr.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagufudr.jpg; sourceTree = "<group>"; };
+		189825911944364400CCE6F0 /* Jagufusb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagufusb.jpg; sourceTree = "<group>"; };
+		189825921944364400CCE6F0 /* Jagufutd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagufutd.jpg; sourceTree = "<group>"; };
+		189825931944364400CCE6F0 /* Jagufwib.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagufwib.jpg; sourceTree = "<group>"; };
+		189825941944364400CCE6F0 /* Jagufwid.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagufwid.jpg; sourceTree = "<group>"; };
+		189825951944364400CCE6F0 /* Jagumhmb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagumhmb.jpg; sourceTree = "<group>"; };
+		189825961944364400CCE6F0 /* Jagumhmd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagumhmd.jpg; sourceTree = "<group>"; };
+		189825971944364400CCE6F0 /* Jagumisd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagumisd.jpg; sourceTree = "<group>"; };
+		189825981944364400CCE6F0 /* Jagurhmb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagurhmb.jpg; sourceTree = "<group>"; };
+		189825991944364400CCE6F0 /* Jagurhmd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagurhmd.jpg; sourceTree = "<group>"; };
+		1898259A1944364400CCE6F0 /* Jagurhsb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagurhsb.jpg; sourceTree = "<group>"; };
+		1898259B1944364400CCE6F0 /* Jagurhsd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jagurhsd.jpg; sourceTree = "<group>"; };
+		1898259C1944364400CCE6F0 /* Jaguvsld.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jaguvsld.jpg; sourceTree = "<group>"; };
+		1898259D1944364400CCE6F0 /* Jaguvstb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jaguvstb.jpg; sourceTree = "<group>"; };
+		1898259E1944364400CCE6F0 /* Jaguvstd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jaguvstd.jpg; sourceTree = "<group>"; };
+		1898259F1944364400CCE6F0 /* Lakerem.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lakerem.jpg; sourceTree = "<group>"; };
+		189825A01944364400CCE6F0 /* read me.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "read me.txt"; sourceTree = "<group>"; };
+		189BD6A119645288000E5D6A /* math_matrix.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = math_matrix.c; sourceTree = "<group>"; };
+		189BD6A319645299000E5D6A /* math_matrix.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = math_matrix.h; sourceTree = "<group>"; };
 		189CF375193BA020007E2D56 /* glk_proj.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = glk_proj.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		189CF378193BA020007E2D56 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		189CF37A193BA020007E2D56 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -55,6 +129,15 @@
 		189CF3A2193BA020007E2D56 /* glk_projTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "glk_projTests-Info.plist"; sourceTree = "<group>"; };
 		189CF3A4193BA020007E2D56 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		189CF3A6193BA020007E2D56 /* glk_projTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = glk_projTests.m; sourceTree = "<group>"; };
+		189CF3B0193BA06C007E2D56 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		189CF3B2193BA073007E2D56 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		189CF3B5193BA30C007E2D56 /* _105_lefh18b2_chassis.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _105_lefh18b2_chassis.obj; sourceTree = "<group>"; };
+		189CF3B6193BA30C007E2D56 /* _105_lefh18b2_hull.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _105_lefh18b2_hull.obj; sourceTree = "<group>"; };
+		189CF3B7193BA30C007E2D56 /* _105_lefh18b2_turret_1_105_lefh18b2.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _105_lefh18b2_turret_1_105_lefh18b2.obj; sourceTree = "<group>"; };
+		189CF3B8193BA30C007E2D56 /* _105_lefh18b2_turret_1_105_lefh18b2_105mm_lefh18_l28.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _105_lefh18b2_turret_1_105_lefh18b2_105mm_lefh18_l28.obj; sourceTree = "<group>"; };
+		189CF3C2193BA354007E2D56 /* obj_file_read.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = obj_file_read.m; sourceTree = "<group>"; };
+		189CF3C3193BA354007E2D56 /* obj_file_read.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = obj_file_read.h; sourceTree = "<group>"; };
+		189CF3C4193BA354007E2D56 /* opengl_general_define.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = opengl_general_define.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +145,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				189CF3B3193BA073007E2D56 /* OpenGLES.framework in Frameworks */,
+				189CF3B1193BA06C007E2D56 /* GLKit.framework in Frameworks */,
 				189CF37B193BA020007E2D56 /* CoreGraphics.framework in Frameworks */,
 				189CF37D193BA020007E2D56 /* UIKit.framework in Frameworks */,
 				189CF379193BA020007E2D56 /* Foundation.framework in Frameworks */,
@@ -81,6 +166,62 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1897E574193CBE7500FF6450 /* SU-101 */ = {
+			isa = PBXGroup;
+			children = (
+				1897E575193CBE7500FF6450 /* su-101_chassis.obj */,
+				1897E576193CBE7500FF6450 /* su-101_hull.obj */,
+				1897E577193CBE7500FF6450 /* su-101_turret_1_su-101.obj */,
+				1897E578193CBE7500FF6450 /* su-101_turret_1_su-101_100mm_d10s_obr_44.obj */,
+				1897E579193CBE7500FF6450 /* su-101_turret_1_su-101_100mm_d54s.obj */,
+				1897E57A193CBE7500FF6450 /* su-101_turret_1_su-101_122mm_d__25c_mod1944.obj */,
+			);
+			name = "SU-101";
+			path = "../../../Downloads/1/result_models/SU-101";
+			sourceTree = "<group>";
+		};
+		1897E581193CCCC200FF6450 /* SU-101 */ = {
+			isa = PBXGroup;
+			children = (
+				1897E582193CCCC200FF6450 /* hull.jpg */,
+				1897E583193CCCC200FF6450 /* track.jpg */,
+			);
+			name = "SU-101";
+			path = "../../../Downloads/1/result_textures/SU-101";
+			sourceTree = "<group>";
+		};
+		189825881944364400CCE6F0 /* jaguar */ = {
+			isa = PBXGroup;
+			children = (
+				189825891944364400CCE6F0 /* jaguar.lwo */,
+				1898258A1944364400CCE6F0 /* jaguar.max */,
+				1898258B1944364400CCE6F0 /* jaguar.mb */,
+				1898258C1944364400CCE6F0 /* jaguar.mtl */,
+				1898258D1944364400CCE6F0 /* jaguar.obj */,
+				1898258E1944364400CCE6F0 /* Jagucano.jpg */,
+				1898258F1944364400CCE6F0 /* Jagufudl.jpg */,
+				189825901944364400CCE6F0 /* Jagufudr.jpg */,
+				189825911944364400CCE6F0 /* Jagufusb.jpg */,
+				189825921944364400CCE6F0 /* Jagufutd.jpg */,
+				189825931944364400CCE6F0 /* Jagufwib.jpg */,
+				189825941944364400CCE6F0 /* Jagufwid.jpg */,
+				189825951944364400CCE6F0 /* Jagumhmb.jpg */,
+				189825961944364400CCE6F0 /* Jagumhmd.jpg */,
+				189825971944364400CCE6F0 /* Jagumisd.jpg */,
+				189825981944364400CCE6F0 /* Jagurhmb.jpg */,
+				189825991944364400CCE6F0 /* Jagurhmd.jpg */,
+				1898259A1944364400CCE6F0 /* Jagurhsb.jpg */,
+				1898259B1944364400CCE6F0 /* Jagurhsd.jpg */,
+				1898259C1944364400CCE6F0 /* Jaguvsld.jpg */,
+				1898259D1944364400CCE6F0 /* Jaguvstb.jpg */,
+				1898259E1944364400CCE6F0 /* Jaguvstd.jpg */,
+				1898259F1944364400CCE6F0 /* Lakerem.jpg */,
+				189825A01944364400CCE6F0 /* read me.txt */,
+			);
+			name = jaguar;
+			path = ../../../Downloads/jaguar;
+			sourceTree = "<group>";
+		};
 		189CF36C193BA020007E2D56 = {
 			isa = PBXGroup;
 			children = (
@@ -103,6 +244,8 @@
 		189CF377193BA020007E2D56 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				189CF3B2193BA073007E2D56 /* OpenGLES.framework */,
+				189CF3B0193BA06C007E2D56 /* GLKit.framework */,
 				189CF378193BA020007E2D56 /* Foundation.framework */,
 				189CF37A193BA020007E2D56 /* CoreGraphics.framework */,
 				189CF37C193BA020007E2D56 /* UIKit.framework */,
@@ -114,6 +257,13 @@
 		189CF37E193BA020007E2D56 /* glk_proj */ = {
 			isa = PBXGroup;
 			children = (
+				189825881944364400CCE6F0 /* jaguar */,
+				1897E581193CCCC200FF6450 /* SU-101 */,
+				1897E574193CBE7500FF6450 /* SU-101 */,
+				189CF3C2193BA354007E2D56 /* obj_file_read.m */,
+				189CF3C3193BA354007E2D56 /* obj_file_read.h */,
+				189CF3C4193BA354007E2D56 /* opengl_general_define.h */,
+				189CF3B4193BA30C007E2D56 /* _105_leFH18B2 */,
 				189CF387193BA020007E2D56 /* AppDelegate.h */,
 				189CF388193BA020007E2D56 /* AppDelegate.m */,
 				189CF38A193BA020007E2D56 /* Main_iPhone.storyboard */,
@@ -122,6 +272,8 @@
 				189CF391193BA020007E2D56 /* ViewController.m */,
 				189CF393193BA020007E2D56 /* Images.xcassets */,
 				189CF37F193BA020007E2D56 /* Supporting Files */,
+				189BD6A119645288000E5D6A /* math_matrix.c */,
+				189BD6A319645299000E5D6A /* math_matrix.h */,
 			);
 			path = glk_proj;
 			sourceTree = "<group>";
@@ -153,6 +305,18 @@
 				189CF3A3193BA020007E2D56 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		189CF3B4193BA30C007E2D56 /* _105_leFH18B2 */ = {
+			isa = PBXGroup;
+			children = (
+				189CF3B5193BA30C007E2D56 /* _105_lefh18b2_chassis.obj */,
+				189CF3B6193BA30C007E2D56 /* _105_lefh18b2_hull.obj */,
+				189CF3B7193BA30C007E2D56 /* _105_lefh18b2_turret_1_105_lefh18b2.obj */,
+				189CF3B8193BA30C007E2D56 /* _105_lefh18b2_turret_1_105_lefh18b2_105mm_lefh18_l28.obj */,
+			);
+			name = _105_leFH18B2;
+			path = ../../../Downloads/1/result_models/_105_leFH18B2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +396,45 @@
 			buildActionMask = 2147483647;
 			files = (
 				189CF38F193BA020007E2D56 /* Main_iPad.storyboard in Resources */,
+				189CF3BC193BA30C007E2D56 /* _105_lefh18b2_turret_1_105_lefh18b2_105mm_lefh18_l28.obj in Resources */,
+				1897E57B193CBE7500FF6450 /* su-101_chassis.obj in Resources */,
+				189825B41944364400CCE6F0 /* Jaguvsld.jpg in Resources */,
+				189825A61944364400CCE6F0 /* Jagucano.jpg in Resources */,
+				189825AC1944364400CCE6F0 /* Jagufwid.jpg in Resources */,
+				1897E584193CCCC200FF6450 /* hull.jpg in Resources */,
+				189825A11944364400CCE6F0 /* jaguar.lwo in Resources */,
+				189CF3BA193BA30C007E2D56 /* _105_lefh18b2_hull.obj in Resources */,
+				1897E580193CBE7500FF6450 /* su-101_turret_1_su-101_122mm_d__25c_mod1944.obj in Resources */,
+				189825A91944364400CCE6F0 /* Jagufusb.jpg in Resources */,
+				189825B71944364400CCE6F0 /* Lakerem.jpg in Resources */,
+				189825A41944364400CCE6F0 /* jaguar.mtl in Resources */,
+				189825B01944364400CCE6F0 /* Jagurhmb.jpg in Resources */,
+				189CF3B9193BA30C007E2D56 /* _105_lefh18b2_chassis.obj in Resources */,
+				189825B21944364400CCE6F0 /* Jagurhsb.jpg in Resources */,
+				189825A21944364400CCE6F0 /* jaguar.max in Resources */,
 				189CF394193BA020007E2D56 /* Images.xcassets in Resources */,
+				189825AD1944364400CCE6F0 /* Jagumhmb.jpg in Resources */,
+				189825A31944364400CCE6F0 /* jaguar.mb in Resources */,
+				1897E57E193CBE7500FF6450 /* su-101_turret_1_su-101_100mm_d10s_obr_44.obj in Resources */,
+				189825A71944364400CCE6F0 /* Jagufudl.jpg in Resources */,
 				189CF38C193BA020007E2D56 /* Main_iPhone.storyboard in Resources */,
+				189825B81944364400CCE6F0 /* read me.txt in Resources */,
+				189825AA1944364400CCE6F0 /* Jagufutd.jpg in Resources */,
+				1897E57D193CBE7500FF6450 /* su-101_turret_1_su-101.obj in Resources */,
+				189825B11944364400CCE6F0 /* Jagurhmd.jpg in Resources */,
+				189825A51944364400CCE6F0 /* jaguar.obj in Resources */,
+				189825AF1944364400CCE6F0 /* Jagumisd.jpg in Resources */,
+				189CF3BB193BA30C007E2D56 /* _105_lefh18b2_turret_1_105_lefh18b2.obj in Resources */,
+				189825A81944364400CCE6F0 /* Jagufudr.jpg in Resources */,
+				189825B61944364400CCE6F0 /* Jaguvstd.jpg in Resources */,
+				189825AB1944364400CCE6F0 /* Jagufwib.jpg in Resources */,
 				189CF383193BA020007E2D56 /* InfoPlist.strings in Resources */,
+				189825B51944364400CCE6F0 /* Jaguvstb.jpg in Resources */,
+				189825B31944364400CCE6F0 /* Jagurhsd.jpg in Resources */,
+				189825AE1944364400CCE6F0 /* Jagumhmd.jpg in Resources */,
+				1897E57C193CBE7500FF6450 /* su-101_hull.obj in Resources */,
+				1897E57F193CBE7500FF6450 /* su-101_turret_1_su-101_100mm_d54s.obj in Resources */,
+				1897E585193CCCC200FF6450 /* track.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,9 +453,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				189BD6A219645288000E5D6A /* math_matrix.c in Sources */,
 				189CF392193BA020007E2D56 /* ViewController.m in Sources */,
 				189CF389193BA020007E2D56 /* AppDelegate.m in Sources */,
 				189CF385193BA020007E2D56 /* main.m in Sources */,
+				189CF3C5193BA354007E2D56 /* obj_file_read.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -470,6 +672,7 @@
 				189CF3AC193BA020007E2D56 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		189CF3AD193BA020007E2D56 /* Build configuration list for PBXNativeTarget "glk_projTests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +681,7 @@
 				189CF3AF193BA020007E2D56 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
